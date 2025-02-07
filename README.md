@@ -4,7 +4,7 @@
 
 ## Overview
 
-The Cybersecurity Threat Detection and Response Dashboard is a user-friendly application designed to monitor and identify potential security threats in real-time. It provides alerts and logs suspicious activities, enabling users to respond promptly to potential cybersecurity incidents.
+The **Cybersecurity Threat Detection and Response Dashboard** is a user-friendly **desktop application** designed to **monitor network activity in real-time**, detect **potential security threats** using simulated threat patterns, and provide **immediate alerts**. It logs suspicious activities, enabling users to track incidents effectively and respond **promptly to cybersecurity threats**.
 
 ## Background
 
