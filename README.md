@@ -45,7 +45,7 @@ Follow these steps to clone, build, and run the application:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/cybersecurity-dashboard.git
+   git clone https://github.com/Vaskar71/Cybersecurity-Threat-Detection-and-Response-Dashboard.git
    cd cybersecurity-dashboard
    ```
 
