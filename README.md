@@ -1,6 +1,6 @@
 # Cybersecurity Threat Detection and Response Dashboard
 
-![image description](https://github.com/Vaskar71/Cybersecurity-Threat-Detection-and-Response-Dashboard/blob/main/Screenshot%20(268).png?raw=true)
+![image description](https://github.com/Vaskar71/Cybersecurity-Threat-Detection-and-Response-Dashboard/blob/main/Introduction%20Image.png?raw=true)
 
 
 
