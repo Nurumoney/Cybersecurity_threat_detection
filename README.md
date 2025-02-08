@@ -8,6 +8,15 @@
 
 The **Cybersecurity Threat Detection and Response Dashboard** is a user-friendly **desktop application** designed to **monitor network activity in real-time**, detect **potential security threats** using simulated threat patterns, and provide **immediate alerts**. It logs suspicious activities, enabling users to track incidents effectively and respond **promptly to cybersecurity threats**.
 
+## The tech stack used for this project includes:  
+
+- **Programming Language:** Python  
+- **GUI Framework:** PyQt5 (for the desktop application interface)  
+- **Styling:** QDarkStyle (for a modern dark-themed UI)  
+- **Threading:** PyQt5 QThread (for background threat detection)  
+- **Testing:** Unittest (for running test cases)  
+- **Package Management:** pip & virtual environment (venv)  
+
 ## Background
 
 In today's digital landscape, cybersecurity is paramount. This project was initiated out of a personal interest in enhancing security monitoring tools. The goal was to create an intuitive interface that simplifies the complex task of threat detection, making it accessible even to those without extensive technical expertise.
