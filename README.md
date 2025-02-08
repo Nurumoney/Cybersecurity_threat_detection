@@ -21,7 +21,7 @@ In today's digital landscape, cybersecurity is paramount. This project was initi
 
 ## Visuals
 
-![Threat Alert](images/threat_alert.png)
+![Threat Alert](https://github.com/Vaskar71/Cybersecurity-Threat-Detection-and-Response-Dashboard/blob/main/Threat.png?raw=true)
 
 *Figure 1: Dashboard displaying a threat alert.*
 
