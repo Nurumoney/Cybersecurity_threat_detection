@@ -1,4 +1,4 @@
-# File: main.py
+# File:  main.py
 import sys
 from PyQt5 import QtWidgets
 from threat_detector import ThreatDetector
