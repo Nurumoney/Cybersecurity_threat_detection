@@ -1,4 +1,4 @@
-# Cybersecurity Threat Detection and Response Dashboard
+# Cybersecurity  Threat Detection and Response Dashboard
 
 ![image description](https://github.com/Vaskar71/Cybersecurity-Threat-Detection-and-Response-Dashboard/blob/main/Introduction%20Image.png?raw=true)
 
